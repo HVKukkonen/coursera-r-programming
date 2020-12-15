@@ -1,7 +1,7 @@
 ### Own notes
 This is my submission for the Programming Assignment 2: Lexical Scoping of the Coursera's R Programming course. The original assignment description is as follows.
 
-###*****************************************************************************************************************************************
+### *****************************************************************************************************************************************
 ### Introduction
 
 This second programming assignment will require you to write an R
